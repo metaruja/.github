@@ -1,6 +1,10 @@
-## Hi there 👋
+# MetaRuJa
+
+-- A Meta Language that compile to Rust & JavaScript
+
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
